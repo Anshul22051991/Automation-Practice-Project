@@ -15,6 +15,7 @@ public class StarPattern2 {
 		}
 		System.out.println("new changes made by user Y");
 		System.out.println("ne changes made by user X");
+		System.out.println("final changes to master brach by user X");
 	}
 }
 //
