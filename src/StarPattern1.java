@@ -14,8 +14,10 @@ public class StarPattern1 {
 		j--;
 		
 	}
+	System.out.println("change made in develop branch");
 				
 	}
+	
 
 }
 //* * * * * * 
