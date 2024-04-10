@@ -13,7 +13,8 @@ public class StarPattern2 {
 			}
 			System.out.println("");
 		}
-		System.out.println("new changes");
+		System.out.println("new changes made by user Y");
+		System.out.println("ne changes made by user X");
 	}
 }
 //
