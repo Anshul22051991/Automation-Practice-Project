@@ -14,7 +14,8 @@ public class StarPattern1 {
 		j--;
 		
 	}
-	System.out.println("change made in develop branch");
+	System.out.println("change made by Y in develop branch");
+	System.out.println("changes made by X in develop branch");
 				
 	}
 	
