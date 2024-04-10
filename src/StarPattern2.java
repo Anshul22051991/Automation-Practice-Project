@@ -13,6 +13,7 @@ public class StarPattern2 {
 			}
 			System.out.println("");
 		}
+		System.out.println("new changes");
 	}
 }
 //
